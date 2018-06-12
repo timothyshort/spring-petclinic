@@ -1,6 +1,6 @@
 # Spring PetClinic Sample Application
 
-#v 2 with GitHub hook integration
+#build 10 with GitHub hook integration
 
 
 ## Understanding the Spring Petclinic application with a few diagrams
