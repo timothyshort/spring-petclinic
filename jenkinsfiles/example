@@ -42,6 +42,15 @@ pipeline {
         sh 'sleep 4'
       }
     }
+
+    stage('Regression-Tests') {
+      agent any
+      steps {
+        //sample dummy step
+        sh 'sleep 2'
+      }
+    }
+
     stage('Another stage') {
       agent any
       steps {
