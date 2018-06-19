@@ -1,6 +1,6 @@
 # Spring PetClinic Sample Application
 
-# feat: 1
+#### feat: 2
 
 
 ## Understanding the Spring Petclinic application with a few diagrams
