@@ -1,6 +1,6 @@
 # Spring PetClinic Sample Application
 
-# modify file to test GitHub push integration with ngrok
+# feat: 1
 
 
 ## Understanding the Spring Petclinic application with a few diagrams
