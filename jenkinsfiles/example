@@ -14,7 +14,7 @@ pipeline {
         sh 'mvn clean install'
       }
     }
-    stage('Package') {
+    stage('Package App') {
       agent any
       steps {
         script {
