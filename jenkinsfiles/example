@@ -51,7 +51,7 @@ pipeline {
       }
     }
 
-    stage('Tearing down test environment') {
+    stage('Tearing down test environments') {
       agent any
       steps {
         //sample dummy step
